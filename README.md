@@ -1,1 +1,1 @@
-# mobile_templates.
+# mobile_templates
