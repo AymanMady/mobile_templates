@@ -33,9 +33,7 @@ window.config.algoliaPlaces = {
 |------------------------------------------------------------------------------
 */
 
-window.config.envato = {
-	itemUrl: 'https://themeforest.net/item/nectar-mobile-web-app-kit/20466093?ref=pmsgz'
-};
+
 
 /*
 |------------------------------------------------------------------------------
